@@ -1,0 +1,10 @@
+{
+  "name": "BookCollectionApp",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Books app",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server -p 9000"
+  }
+}
