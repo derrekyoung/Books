@@ -1,4 +1,4 @@
-//Updated on: 2014-04-12 11:40:22.326917 
+//Updated on: 2014-04-29 20:04:30.752320 
 
 var columns = ['Title', 'Author', 'Date'];
 
@@ -217,6 +217,11 @@ var books=[
         "Author": "Steve Jobs (5)", 
         "Date": "2013-12-15", 
         "Title": "Isaacson, Walter"
+    }, 
+    {
+        "Author": "The Eye of the World_ Book One of 'The Wheel of Time' (116)", 
+        "Date": "2014-04-30", 
+        "Title": "Jordan, Robert"
     }, 
     {
         "Author": "The Devil in the White City_ A Saga of Magic and Murder at the Fair that Changed America (15)", 
